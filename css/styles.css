@@ -1,9 +1,17 @@
-.nameheading {
+.nameHeading {
   text-align: center;
   font-family: 'Dancing Script', cursive;
 }
 
-.nametext {
+.nameText {
   text-align: center;
   font-family: 'Dancing Script', cursive;
+}
+
+.img1 {
+  float: right;
+}
+
+.photoText {
+  text-align: left;
 }
