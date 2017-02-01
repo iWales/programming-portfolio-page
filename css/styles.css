@@ -1,17 +1,30 @@
+.container {
+  border: solid red 2px
+}
+
 .nameHeading {
-  text-align: center;
-  font-family: 'Dancing Script', cursive;
+  text-align: left;
+  /*font-family: 'Dancing Script', cursive;*/
+  font-family: sans-serif;
 }
 
 .nameText {
+  border: black 2px solid;
   text-align: center;
-  font-family: 'Dancing Script', cursive;
+  /*font-family: 'Dancing Script', cursive;*/
+  font-family: sans-serif;
+  font-weight: bold;
 }
 
 .img1 {
-  float: right;
+  float: left;
+  height: 250px;
 }
 
-.photoText {
-  text-align: left;
+.imgNameQuote {
+  border: 2px solid black
+}
+
+.skillset {
+  font-weight: bold;
 }
