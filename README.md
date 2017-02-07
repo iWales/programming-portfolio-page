@@ -1,4 +1,4 @@
-# Exhaustive Page Detailing My Programming Experience
+# Programming Experience
 
 #### Programming Portfolio Exercise for Epicodus, 02.06.2017
 
