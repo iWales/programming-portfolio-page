@@ -23,6 +23,7 @@
 .img1 {
   float: left;
   height: 250px;
+  padding-right: 10px;
 }
 
 .imgNameQuote {
